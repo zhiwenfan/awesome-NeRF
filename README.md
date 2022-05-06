@@ -110,6 +110,10 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Editing Conditional Radiance Fields](http://editnerf.csail.mit.edu/), Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf) | [bibtex](./citations/editnerf.txt)
 - [Editable Free-viewpoint Video Using a Layered Neural Representation](https://jiakai-zhang.github.io/st-nerf/), Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf) | [bibtex](./citations/st-nerf.txt)
 
+#### Style Transfer
+- [Stylizing 3D Scene via Implicit Representation and HyperNetwork](https://ztex08010518.github.io/3dstyletransfer/), Chiang et al., WACV 2021 | [github](https://github.com/ztex08010518/Stylizing-3D-Scene) | [bibtex](./citations/style3d.txt)
+- [Unified Implicit Neural Stylization](https://zhiwenfan.github.io/INS/), Fan et al., Arxiv 2022 | [github](https://github.com/VITA-Group/INS) | [bibtex](./citations/INS.txt)
+
 #### Object Category Modeling
 - [FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling](https://fig-nerf.github.io/), Xie et al., Arxiv 2021 | [bibtex](./citations/fig-nerf.txt)
 - [NeRF-Tex: Neural Reflectance Field Textures](https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/), Baatz et al., EGSR 2021 | [bibtex](./citations/nerf-tex.txt)
